@@ -1,3 +1,4 @@
+# Author:Dr. Boke at  https://github.com/kb1907
 # Blue-Green-Retail-Store - Customer Sentiment Analysis by AWS ML Services
 
 - This repo contains files for [A Gentle Intro to AWS ML Related Services — Sentiment Analysis With AWS](https://pub.towardsai.net/sentiment-analysis-with-aws-a-gentle-intro-to-aws-ml-related-services-e975a5592950) article.
